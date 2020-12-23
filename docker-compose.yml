@@ -3,4 +3,4 @@ services:
     colab-runtime:
         ports:
             - '8888:8888'
-        image: samsheff/colab-runtime
+        image: samsheff/colab-runtime-cpp
